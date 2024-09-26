@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-Hello! I'm Anbuselvan A, a passionate Data Analyst based in Bengaluru, India. I love working with data, finding insights, and turning numbers into stories. Skilled in tools like Python, Power BI, and SQL, I enjoy solving complex problems and helping businesses make better decisions.
+Hello! I'm Anbuselvan A, a passionate Data Analyst based in Tamil Nadu, India. I love working with data, finding insights, and turning numbers into stories. Skilled in tools like Python, Power BI, and SQL, I enjoy solving complex problems and helping businesses make better decisions.
 
 - 🌱 **Currently learning**: Advanced Machine Learning techniques.
 - 📊 **Experience**: Working with large datasets and making sense of the data.
@@ -45,7 +45,7 @@ Hello! I'm Anbuselvan A, a passionate Data Analyst based in Bengaluru, India. I 
 # 📫 Let's Connect!
 
 - 📧 **Email**: [anbuashwin05@gmail.com](mailto:anbuashwin05@gmail.com)
-- 🔗 **LinkedIn**: [Anbuselvan]([https://www.linkedin.com/in/anbuselvan05])
+- 🔗 **LinkedIn**: [Anbuselvan](https://www.linkedin.com/in/anbuselvan05)
 
 ---
 
