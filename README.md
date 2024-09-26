@@ -6,7 +6,7 @@ Hello! I'm Anbuselvan A, a passionate Data Analyst based in Bengaluru, India. I 
 - 📊 **Experience**: Working with large datasets and making sense of the data.
 - 💼 **Projects**: Completed successful projects within tight deadlines.
 - 🌍 **Location**: Tamil Nadu, India.
-- 📂 **Portfolio**: [My Resume](https://drive.google.com/file/d/1x8E31fXwfb0II7mFucGQsYK4xaJRBx_M/view?usp=sharing)
+- 📂 **Portfolio**: [My Resume](https://drive.google.com/file/d/1tbCih-xuYlGXiIYfA67F8B0mrDa04dF0/view?usp=sharing)
 - 📧 **Contact**: [mailto:anbuashwin05@gmail.com] | [LinkedIn](https://linkedin.com/in/anbuselvan05)
 
 ---
